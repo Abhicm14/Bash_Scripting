@@ -1,0 +1,20 @@
+Embedded systems are specialized computer systems, combining hardware (microprocessor/microcontroller, memory, I/O) and software, designed for a specific function within a larger device, like controlling a car's engine or a microwave oven, often operating in real-time and with constraints like size, power, and cost, unlike general-purpose computers. 
+They are found everywhere, from smartwatches and washing machines to industrial robots and aircraft, performing dedicated tasks with varying complexity, from simple fixed functions to complex graphical interfaces, integral to the Internet of Things (IoT).
+
+Key Characteristics
+Task-Specific: Built for one or a few specific jobs (e.g., controlling a car's anti-lock brakes).
+Hardware-Software Integration: A tight blend of dedicated hardware and application-specific software.
+Real-Time Constraints: Often must respond to events within strict time limits (e.g., airbag deployment).
+Embedded Nature: Part of a larger system, often hidden from the user, with minimal or no traditional UI (keyboard/monitor).
+
+Core Components
+Processor: Microcontroller (MCU) or Microprocessor (MPU).
+Memory: RAM, ROM, Flash for code and data.
+Input/Output (I/O): Sensors (input) and Actuators (output like motors, LEDs).
+Software: Firmware (bare metal) or a Real-Time Operating System (RTOS) for complex tasks.
+Examples & Applications
+Consumer Electronics: Smartphones, TVs, smart home devices, digital cameras.
+Automotive: Engine control, infotainment, safety systems (ABS, airbags).
+Industrial Automation: Robotics, control systems, PLCs (Programmable Logic Controllers).
+Medical: Pacemakers, monitoring devices, diagnostic equipment.
+Aerospace: Flight control systems, navigation.
