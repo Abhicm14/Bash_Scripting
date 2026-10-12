@@ -1,0 +1,11 @@
+# Shell & Editor temp files
+*.tmp
+*.log
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Output artifacts
+out.txt
+
